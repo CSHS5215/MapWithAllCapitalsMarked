@@ -12,7 +12,7 @@
 	<artifactId>Map</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Map</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Map that show all capitals marked.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -32,11 +32,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>com.opencsv</groupId>
-			<artifactId>opencsv</artifactId>
-			<version>4.1</version>
-		</dependency>
+
 
 	</dependencies>
 
